@@ -1,4 +1,4 @@
-
+print()
 import random
 import math
 
